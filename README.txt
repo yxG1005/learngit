@@ -1,2 +1,1 @@
-git is convenient
-I love you
+GA code
